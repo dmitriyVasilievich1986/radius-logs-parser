@@ -2,3 +2,4 @@
 *.db
 \.vscode
 *.pyc
+work_with_db.py
