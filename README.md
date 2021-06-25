@@ -4,7 +4,7 @@ The script is designed for parsing log files, collecting, analyzing and storing 
 
 # Simple script call:
 
-python -u search.py
+> python -u search.py
 
 # Calling data to a sqlite database file.
 
