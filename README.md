@@ -2,6 +2,9 @@
 
 The script is designed for parsing log files, collecting, analyzing and storing data from these logs.
 
+
+
+
 ## Simple script call:
 
 > python -u search.py
