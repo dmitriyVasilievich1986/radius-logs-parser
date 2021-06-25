@@ -13,10 +13,11 @@ python -u search.py -S
 python -u search.py --save
 
 # Call with the indication of the path to the log file or folder with log files.
-
 #path to single file "sample.log"
-#python -u search.py -P logs/sample.log
-#python -u search.py --path logs/sample.log
+
+python -u search.py -P logs/sample.log
+
+python -u search.py --path logs/sample.log
 
 path to directory with log files "sample_directory"
 python -u search.py -P logs/sample_directory
