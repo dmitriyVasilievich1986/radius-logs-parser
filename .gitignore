@@ -1,2 +1,4 @@
-databases
-logs
+*.log
+*.db
+\.vscode
+*.pyc
