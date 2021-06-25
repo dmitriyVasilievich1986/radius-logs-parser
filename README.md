@@ -31,7 +31,7 @@ python -u search.py -V
 
 python -u search.py --verbose
 
-With limited output lines.
+// with limited output lines.
 
 python -u search.py -V -L 10
 
