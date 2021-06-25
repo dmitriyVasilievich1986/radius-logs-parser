@@ -25,7 +25,6 @@ python -u search.py -P logs/sample_directory
 python -u search.py --path logs/sample_directory
 
 Call with data output on the screen.
-
 python -u search.py -V
 
 python -u search.py --verbose
